@@ -1,0 +1,2 @@
+# jsBase
+JavaScript Base Library
