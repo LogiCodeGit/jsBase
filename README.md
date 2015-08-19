@@ -16,3 +16,16 @@ browsers\modules.json
 nodejs\modules.json             
 	- Specific modules for nodejs based applications
 
+
+-------------------------------------------------------------------------------------
+
+For testing with test.js refer to
+
+qunit: http://qunitjs.com/
+
+
+For modules.json format refer to
+
+requirejs: http://requirejs.org/
+
+bower: http://bower.io/docs/creating-packages/#bowerjson
