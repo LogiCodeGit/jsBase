@@ -24,7 +24,9 @@ For testing with test.js refer to
 qunit: http://qunitjs.com/
 
 
-For modules.json format refer to
+For modules format refer to
+
+module format: http://www.adequatelygood.com/JavaScript-Module-Pattern-In-Depth.html
 
 requirejs: http://requirejs.org/
 
