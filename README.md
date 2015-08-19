@@ -7,10 +7,10 @@ To automating the module loading process download the modules.json for root and 
 Folders/Modules:
 
 modules.json      
-    - First file to load for base required modules
+	- First file to load base required modules
     
 browsers\modules.json             
-    - Specific modules for browsers based applications
+	- Specific modules for browsers based applications
 
 nodejs\modules.json             
 	- Specific modules for nodejs based applications
