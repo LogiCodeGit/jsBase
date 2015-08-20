@@ -30,4 +30,6 @@ module format: http://www.adequatelygood.com/JavaScript-Module-Pattern-In-Depth.
 
 requirejs: http://requirejs.org/
 
+code organization: http://learn.jquery.com/code-organization/concepts/
+
 bower: http://bower.io/docs/creating-packages/#bowerjson
